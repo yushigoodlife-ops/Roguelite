@@ -1,0 +1,5 @@
+Id,WeaponName,WeaponFireType,AttackPower,FireInteval,FireRate,MaxAmmo,ReloadTime
+1,ハンドガン,0,20,1,1,15,3
+2,マグナム,0,100,1,1,6,5
+3,ヘムロック,1,20,0.2,1,20,3
+4,AK,2,10,0.1,0.1,30,3
